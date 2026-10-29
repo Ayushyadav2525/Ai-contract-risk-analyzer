@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/api/:path*", "destination": "https://REPLACE_WITH_RAILWAY_BACKEND_URL/api/:path*" },
+    { "source": "/api/:path*", "destination": "https://ai-contract-risk-analyzer-w012.onrender.com/api/:path*" },
     { "source": "/(.*)", "destination": "/index.html" }
   ],
   "headers": [
